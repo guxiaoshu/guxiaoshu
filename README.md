@@ -1,4 +1,4 @@
-**快去 commit 点东西给小蛇吃吧！** 
+**快去 commit 点东西给小蛇吃吧！** 🤣
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guxiaoshu/guxiaoshu/output/snake-dark.svg">
