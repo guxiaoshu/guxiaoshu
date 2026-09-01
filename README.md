@@ -1,7 +1,10 @@
-## 我的“打工蛇”
 
-**“没有代码吃，只能躺平休息咯~”** 😂
+**“没有提交记录吃，只能躺平休息咯~”** 😂
 
-![snake](https://raw.githubusercontent.com/guxiaoshu/guxiaoshu/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guxiaoshu/guxiaoshu/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guxiaoshu/guxiaoshu/output/snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/guxiaoshu/guxiaoshu/output/snake.svg">
+</picture>
 
 **提示：** 快去 `commit` 点东西给小蛇吃吧！
