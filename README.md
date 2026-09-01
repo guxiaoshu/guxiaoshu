@@ -1,5 +1,5 @@
 
-**“如果没有提交记录吃，就只能躺平休息咯~”** 
+**如果没有提交记录吃，就只能躺平休息咯~** 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guxiaoshu/guxiaoshu/output/snake-dark.svg">
