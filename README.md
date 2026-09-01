@@ -7,4 +7,4 @@
   <img alt="snake" src="https://raw.githubusercontent.com/guxiaoshu/guxiaoshu/output/snake.svg">
 </picture>
 
-**提示：** 快去 `commit` 点东西给小蛇吃吧！
+ 快去 `commit` 点东西给小蛇吃吧！
