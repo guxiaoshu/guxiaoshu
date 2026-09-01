@@ -1,5 +1,3 @@
-![Uploading jty.jpg…]()
-
 **如果没有提交记录吃，就只能躺平休息咯~** 
 
 <picture>
